@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="140" src="https://avatars.githubusercontent.com/u/43545812?v=4"  />
+<img align="right" height="140" src="https://camo.githubusercontent.com/6bc659a07891421494f7b9fcc9d849feee45291dfdb693de0d3d029367fec633/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330"  />
 
 ###
 
@@ -11,10 +11,6 @@
 ###
 
 <p align="left">🎓 Pursuing Master of Applied Computing @ Wilfrid Laurier University  <br>💻 Aspiring Cyber Security Analyst • Game Dev Hobbyist • Coding Enthusiast <br>• Part-time survivor, full-time gamer<br>🧠 Interested in Cyber Security, Threat Detection & Security Operations (SOC)<br><br>-----</p>
-
-###
-
-<img align="right" height="65" src="https://camo.githubusercontent.com/6bc659a07891421494f7b9fcc9d849feee45291dfdb693de0d3d029367fec633/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330"  />
 
 ###
 
